@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael Blankenship! @michaelbship on every platform. Medium (articles), Twitter, LinkedIn, etc!
-- 👀 I’m interested in building machine learning pipelines and applications.
-- 🌱 I’m currently learning more in-depth types of ML models as well as large scale system design.
-- 💞️ I’m looking to collaborate on an idea that exposes new data into the world. We have many tools, but not enough good data!
+- 👀 I’m interested in building Bitcoin and AI things
+- 🌱 I’m currently building a payments company on Bitcoin. https://relampago.cash
 - 📫 How to reach me is: mail@michaelbship.com
 - My resume is @ https://tiny.one/michaelbshipResume
